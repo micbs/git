@@ -1,4 +1,11 @@
-﻿
+
+
+links
+*****************************************
+https://www.atlassian.com/git/tutorials
+*****************************************
+
+
 
 
 // initialized the git repository in the first time
@@ -152,7 +159,11 @@ git push origin master
 
 
 
-
+The git pull command is used to fetch and download content from a remote repository 
+and immediately update the local repository to match that content. 
+===================================================================================================================
+git pull
+===================================================================================================================
 
 
 
