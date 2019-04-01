@@ -76,14 +76,14 @@ git reset HEAD myFile.txt
 
 
 
-// commit the file that are in the staging environment and push them to git repository
+// commit files that are in the staging environment and move them to local repository
 ===================================================================================================================
 git commit -m "here you write a comment"
 ===================================================================================================================
 
 
 
-// commit files from working directory and push them direct to the repository (skeep the staging environment)
+// commit files from working directory and move them direct to the local repository (skip the staging environment)
 ===================================================================================================================
 git commit -am "here you write a comment"
 ===================================================================================================================
