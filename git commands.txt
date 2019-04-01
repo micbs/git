@@ -83,13 +83,6 @@ git commit -m "here you write a comment"
 
 
 
-// commit files from working directory and move them direct to the local repository (skip the staging environment)
-===================================================================================================================
-git commit -am "here you write a comment"
-===================================================================================================================
-
-
-
 // view commit history
 ===================================================================================================================
 git log
