@@ -1,3 +1,11 @@
-searching in github (select all github)
 
-user:micbs wcf
+find text in repository
+===================================================
+repo:micbs/sql HAVING
+===================================================
+
+find text in all repositories
+===================================================
+owner:micbs HAVING
+===================================================
+
