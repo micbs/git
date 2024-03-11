@@ -1,11 +1,11 @@
 
 find text in repository
 ===================================================
-repo:micbs/sql HAVING
+repo:micbs/sql delete
 ===================================================
 
 find text in all repositories
 ===================================================
-owner:micbs HAVING
+owner:micbs delete
 ===================================================
 
